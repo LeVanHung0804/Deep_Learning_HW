@@ -2,6 +2,7 @@
     Created by hungle
     Bayesian linear regression
 """
+######################
 # import library
 import pandas
 import numpy
